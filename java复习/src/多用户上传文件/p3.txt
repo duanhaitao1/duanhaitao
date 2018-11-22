@@ -1,0 +1,2 @@
+classaddress=cn.itcast01_反射.Student
+classmethod=fun
