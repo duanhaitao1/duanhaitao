@@ -1,8 +1,16 @@
+
 calass Duan
 {
 public static void mian(String[]args)
 {
 System.out.println("xxxxxxxxxxxxxx")£»
-SysexMessage00000
+System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 }
 }
+
+
+
